@@ -1,0 +1,31 @@
+﻿
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Production
+build/
+dist/
+
+# Misc
+.DS_Store
+*.log
+
+# Env
+.env
+.env.*
+.cache/
+
+# Editor
+.vscode/
+*.swp
+*.swo
+
+# Coverage
+coverage/
+
+# CRA
+.eslintcache
